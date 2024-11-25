@@ -6,7 +6,7 @@
         <option value="2">中级</option>
         <option value="3">高级</option>
         <option value="4">专家</option>
-        <option value="4">大师</option>
+        <option value="5">大师</option>
       </select>
     </div>
     <div class="set">设置行数: <input v-model="line" type="text"></div>
